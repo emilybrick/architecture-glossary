@@ -1,5 +1,9 @@
-## This is another markdown file
+# Testing out Merge Conflicts
 
-changes here
+test on branch bla bla
+
+### This is a lot of fun!
+
+milybrick-readme-test-1
 
 ### Just testing out merge conflict UI
